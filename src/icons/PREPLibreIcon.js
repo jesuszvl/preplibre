@@ -1,7 +1,7 @@
 export default function PREPLibreIcon({
   width = 32,
   height = 32,
-  stroke = "#ca0e83",
+  stroke = '#ed8b1c',
 }) {
   return (
     <svg
